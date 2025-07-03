@@ -1,4 +1,4 @@
-   Spg_num Spg_sym  Spg_num_opt Spg_sym_opt  E_eV_atom  Magmom   Opt
-2      129  P4/nmm          123      P4/mmm -22.810744     NaN  None
-0       30    Pnc2           30        Pnc2 -18.268981     NaN  None
-1       27    Pcc2           47        Pmmm  80.843136     NaN  None
+   Spg_num Spg_sym  Spg_num_opt Spg_sym_opt   E_eV_atom  Magmom   Opt
+2       78    P4_3           78        P4_3  -13.894522     NaN  None
+0       47    Pmmm           47        Pmmm   40.584712     NaN  None
+1      139  I4/mmm          139      I4/mmm  248.279097     NaN  None
