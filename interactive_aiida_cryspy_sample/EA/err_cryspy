@@ -1,0 +1,9 @@
+[2025-07-24 16:57:42,918][gen_pyxtal][WARNING] Compoisition [4 4] not compatible with symmetry 222:     spg = 222 retry.
+[2025-07-24 16:57:42,920][gen_pyxtal][WARNING] Compoisition [4 4] not compatible with symmetry 153:     spg = 153 retry.
+[2025-07-24 16:57:42,994][gen_pyxtal][WARNING] Compoisition [16 16] not compatible with symmetry 202:     spg = 202 retry.
+[2025-07-24 17:02:59,207][crossover][WARNING] remove_within_mindist: some atoms within mindist. retry.
+[2025-07-24 17:06:25,612][strain][WARNING] mindist in strain: Ga - Ga, 1.1997107873102872. retry.
+[2025-07-24 17:08:30,098][crossover][WARNING] remove_within_mindist: some atoms within mindist. retry.
+[2025-07-24 17:08:30,130][strain][WARNING] mindist in strain: N - N, 0.6051116600128168. retry.
+[2025-07-24 17:08:30,258][gen_pyxtal][WARNING] Compoisition [16 16] not compatible with symmetry 226:     spg = 226 retry.
+[2025-07-24 17:08:30,289][gen_pyxtal][WARNING] Compoisition [16 16] not compatible with symmetry 228:     spg = 228 retry.

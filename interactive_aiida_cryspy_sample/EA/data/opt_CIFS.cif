@@ -1,0 +1,1766 @@
+# generated using pymatgen
+data_ID_0
+_symmetry_space_group_name_H-M   P4mm
+_cell_length_a   2.73681640
+_cell_length_b   2.73681640
+_cell_length_c   12.86132670
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   99
+_chemical_formula_structural   GaN
+_cell_volume   96.33344604
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x, z'
+  3  '-x, -y, z'
+  4  'y, -x, z'
+  5  '-x, y, z'
+  6  'y, x, z'
+  7  'x, -y, z'
+  8  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.00000000  0.50000000  0.49922524  1.0
+  Ga  Ga1  1  0.50000000  0.50000000  0.11373492  1.0
+  Ga  Ga2  1  0.50000000  0.50000000  0.29566661  1.0
+  N  N3  2  0.00000000  0.50000000  0.78373396  1.0
+  N  N4  1  0.50000000  0.50000000  0.63048609  1.0
+  N  N5  1  0.50000000  0.50000000  0.87979971  1.0
+# generated using pymatgen
+data_ID_1
+_symmetry_space_group_name_H-M   P-3m1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   164
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'y, x, -z'
+  8  '-y, -x, z'
+  9  'x-y, -y, -z'
+  10  '-x+y, y, z'
+  11  '-x, -x+y, -z'
+  12  'x, x-y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.33333333  0.66666667  0.42093427  1.0
+  Ga  Ga1  2  0.33333333  0.66666667  0.92019880  1.0
+  N  N2  2  0.00000000  0.00000000  0.19014644  1.0
+  N  N3  2  0.00000000  0.00000000  0.31057673  1.0
+# generated using pymatgen
+data_ID_2
+_symmetry_space_group_name_H-M   P4_32_12
+_cell_length_a   5.65221942
+_cell_length_b   5.65221942
+_cell_length_c   4.57577010
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   96
+_chemical_formula_structural   GaN
+_cell_volume   146.18480143
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z+3/4'
+  3  '-x, -y, z+1/2'
+  4  'y+1/2, -x+1/2, z+1/4'
+  5  'x+1/2, -y+1/2, -z+1/4'
+  6  '-y, -x, -z+1/2'
+  7  '-x+1/2, y+1/2, -z+3/4'
+  8  'y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.09627713  0.09627713  0.00000000  1.0
+  N  N1  4  0.15987581  0.84012419  0.25000000  1.0
+# generated using pymatgen
+data_ID_3
+_symmetry_space_group_name_H-M   Fm-3m
+_cell_length_a   5.49538769
+_cell_length_b   5.49538769
+_cell_length_c   5.49538769
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   225
+_chemical_formula_structural   GaN
+_cell_volume   165.95678361
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z'
+  50  '-x+1/2, -y+1/2, -z'
+  51  '-y+1/2, x+1/2, z'
+  52  'y+1/2, -x+1/2, -z'
+  53  '-x+1/2, -y+1/2, z'
+  54  'x+1/2, y+1/2, -z'
+  55  'y+1/2, -x+1/2, z'
+  56  '-y+1/2, x+1/2, -z'
+  57  'x+1/2, -y+1/2, -z'
+  58  '-x+1/2, y+1/2, z'
+  59  '-y+1/2, -x+1/2, -z'
+  60  'y+1/2, x+1/2, z'
+  61  '-x+1/2, y+1/2, -z'
+  62  'x+1/2, -y+1/2, z'
+  63  'y+1/2, x+1/2, -z'
+  64  '-y+1/2, -x+1/2, z'
+  65  'z+1/2, x+1/2, y'
+  66  '-z+1/2, -x+1/2, -y'
+  67  'z+1/2, -y+1/2, x'
+  68  '-z+1/2, y+1/2, -x'
+  69  'z+1/2, -x+1/2, -y'
+  70  '-z+1/2, x+1/2, y'
+  71  'z+1/2, y+1/2, -x'
+  72  '-z+1/2, -y+1/2, x'
+  73  '-z+1/2, x+1/2, -y'
+  74  'z+1/2, -x+1/2, y'
+  75  '-z+1/2, -y+1/2, -x'
+  76  'z+1/2, y+1/2, x'
+  77  '-z+1/2, -x+1/2, y'
+  78  'z+1/2, x+1/2, -y'
+  79  '-z+1/2, y+1/2, x'
+  80  'z+1/2, -y+1/2, -x'
+  81  'y+1/2, z+1/2, x'
+  82  '-y+1/2, -z+1/2, -x'
+  83  'x+1/2, z+1/2, -y'
+  84  '-x+1/2, -z+1/2, y'
+  85  '-y+1/2, z+1/2, -x'
+  86  'y+1/2, -z+1/2, x'
+  87  '-x+1/2, z+1/2, y'
+  88  'x+1/2, -z+1/2, -y'
+  89  '-y+1/2, -z+1/2, x'
+  90  'y+1/2, z+1/2, -x'
+  91  '-x+1/2, -z+1/2, -y'
+  92  'x+1/2, z+1/2, y'
+  93  'y+1/2, -z+1/2, -x'
+  94  '-y+1/2, z+1/2, x'
+  95  'x+1/2, -z+1/2, y'
+  96  '-x+1/2, z+1/2, -y'
+  97  'x+1/2, y, z+1/2'
+  98  '-x+1/2, -y, -z+1/2'
+  99  '-y+1/2, x, z+1/2'
+  100  'y+1/2, -x, -z+1/2'
+  101  '-x+1/2, -y, z+1/2'
+  102  'x+1/2, y, -z+1/2'
+  103  'y+1/2, -x, z+1/2'
+  104  '-y+1/2, x, -z+1/2'
+  105  'x+1/2, -y, -z+1/2'
+  106  '-x+1/2, y, z+1/2'
+  107  '-y+1/2, -x, -z+1/2'
+  108  'y+1/2, x, z+1/2'
+  109  '-x+1/2, y, -z+1/2'
+  110  'x+1/2, -y, z+1/2'
+  111  'y+1/2, x, -z+1/2'
+  112  '-y+1/2, -x, z+1/2'
+  113  'z+1/2, x, y+1/2'
+  114  '-z+1/2, -x, -y+1/2'
+  115  'z+1/2, -y, x+1/2'
+  116  '-z+1/2, y, -x+1/2'
+  117  'z+1/2, -x, -y+1/2'
+  118  '-z+1/2, x, y+1/2'
+  119  'z+1/2, y, -x+1/2'
+  120  '-z+1/2, -y, x+1/2'
+  121  '-z+1/2, x, -y+1/2'
+  122  'z+1/2, -x, y+1/2'
+  123  '-z+1/2, -y, -x+1/2'
+  124  'z+1/2, y, x+1/2'
+  125  '-z+1/2, -x, y+1/2'
+  126  'z+1/2, x, -y+1/2'
+  127  '-z+1/2, y, x+1/2'
+  128  'z+1/2, -y, -x+1/2'
+  129  'y+1/2, z, x+1/2'
+  130  '-y+1/2, -z, -x+1/2'
+  131  'x+1/2, z, -y+1/2'
+  132  '-x+1/2, -z, y+1/2'
+  133  '-y+1/2, z, -x+1/2'
+  134  'y+1/2, -z, x+1/2'
+  135  '-x+1/2, z, y+1/2'
+  136  'x+1/2, -z, -y+1/2'
+  137  '-y+1/2, -z, x+1/2'
+  138  'y+1/2, z, -x+1/2'
+  139  '-x+1/2, -z, -y+1/2'
+  140  'x+1/2, z, y+1/2'
+  141  'y+1/2, -z, -x+1/2'
+  142  '-y+1/2, z, x+1/2'
+  143  'x+1/2, -z, y+1/2'
+  144  '-x+1/2, z, -y+1/2'
+  145  'x, y+1/2, z+1/2'
+  146  '-x, -y+1/2, -z+1/2'
+  147  '-y, x+1/2, z+1/2'
+  148  'y, -x+1/2, -z+1/2'
+  149  '-x, -y+1/2, z+1/2'
+  150  'x, y+1/2, -z+1/2'
+  151  'y, -x+1/2, z+1/2'
+  152  '-y, x+1/2, -z+1/2'
+  153  'x, -y+1/2, -z+1/2'
+  154  '-x, y+1/2, z+1/2'
+  155  '-y, -x+1/2, -z+1/2'
+  156  'y, x+1/2, z+1/2'
+  157  '-x, y+1/2, -z+1/2'
+  158  'x, -y+1/2, z+1/2'
+  159  'y, x+1/2, -z+1/2'
+  160  '-y, -x+1/2, z+1/2'
+  161  'z, x+1/2, y+1/2'
+  162  '-z, -x+1/2, -y+1/2'
+  163  'z, -y+1/2, x+1/2'
+  164  '-z, y+1/2, -x+1/2'
+  165  'z, -x+1/2, -y+1/2'
+  166  '-z, x+1/2, y+1/2'
+  167  'z, y+1/2, -x+1/2'
+  168  '-z, -y+1/2, x+1/2'
+  169  '-z, x+1/2, -y+1/2'
+  170  'z, -x+1/2, y+1/2'
+  171  '-z, -y+1/2, -x+1/2'
+  172  'z, y+1/2, x+1/2'
+  173  '-z, -x+1/2, y+1/2'
+  174  'z, x+1/2, -y+1/2'
+  175  '-z, y+1/2, x+1/2'
+  176  'z, -y+1/2, -x+1/2'
+  177  'y, z+1/2, x+1/2'
+  178  '-y, -z+1/2, -x+1/2'
+  179  'x, z+1/2, -y+1/2'
+  180  '-x, -z+1/2, y+1/2'
+  181  '-y, z+1/2, -x+1/2'
+  182  'y, -z+1/2, x+1/2'
+  183  '-x, z+1/2, y+1/2'
+  184  'x, -z+1/2, -y+1/2'
+  185  '-y, -z+1/2, x+1/2'
+  186  'y, z+1/2, -x+1/2'
+  187  '-x, -z+1/2, -y+1/2'
+  188  'x, z+1/2, y+1/2'
+  189  'y, -z+1/2, -x+1/2'
+  190  '-y, z+1/2, x+1/2'
+  191  'x, -z+1/2, y+1/2'
+  192  '-x, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.00000000  0.00000000  0.50000000  1.0
+  N  N1  4  0.00000000  0.00000000  0.00000000  1.0
+# generated using pymatgen
+data_ID_4
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.22912681  0.66997563  0.17695562  1.0
+  Ga  Ga1  1  0.50109921  0.53767143  0.51503239  1.0
+  Ga  Ga2  1  0.72510580  0.55224286  0.97817516  1.0
+  Ga  Ga3  1  0.98537715  0.12339116  0.22729142  1.0
+  N  N4  1  0.00016713  0.31727580  0.51620988  1.0
+  N  N5  1  0.00410875  0.84960190  0.76174983  1.0
+  N  N6  1  0.06072487  0.10353511  0.78503664  1.0
+  N  N7  1  0.49429029  0.33123973  0.21507665  1.0
+# generated using pymatgen
+data_ID_5
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   3.93108158
+_cell_length_b   3.93108158
+_cell_length_c   8.69232247
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   GaN
+_cell_volume   134.32595714
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.00000000  0.50000000  0.50000000  1.0
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ga  Ga2  1  0.50000000  0.50000000  0.50000000  1.0
+  N  N3  4  0.00000000  0.50000000  0.13786033  1.0
+# generated using pymatgen
+data_ID_6
+_symmetry_space_group_name_H-M   Fd-3m
+_cell_length_a   8.71665381
+_cell_length_b   8.71665381
+_cell_length_c   8.71665381
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   227
+_chemical_formula_structural   GaN
+_cell_volume   662.29182494
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/4, x+1/4, z+1/4'
+  3  '-x, -y+1/2, z+1/2'
+  4  'y+3/4, -x+1/4, z+3/4'
+  5  'x, -y, -z'
+  6  '-y+1/4, -x+3/4, -z+3/4'
+  7  '-x, y+1/2, -z+1/2'
+  8  'y+3/4, x+3/4, -z+1/4'
+  9  'z, x, y'
+  10  'z+1/4, -y+1/4, x+1/4'
+  11  'z+1/2, -x, -y+1/2'
+  12  'z+3/4, y+3/4, -x+1/4'
+  13  '-z, x, -y'
+  14  '-z+3/4, -y+1/4, -x+3/4'
+  15  '-z+1/2, -x, y+1/2'
+  16  '-z+1/4, y+3/4, x+3/4'
+  17  'y, z, x'
+  18  'x+1/4, z+1/4, -y+1/4'
+  19  '-y+1/2, z+1/2, -x'
+  20  '-x+1/4, z+3/4, y+3/4'
+  21  '-y, -z, x'
+  22  '-x+3/4, -z+3/4, -y+1/4'
+  23  'y+1/2, -z+1/2, -x'
+  24  'x+3/4, -z+1/4, y+3/4'
+  25  '-x+1/4, -y+1/4, -z+1/4'
+  26  'y, -x, -z'
+  27  'x+1/4, y+3/4, -z+3/4'
+  28  '-y+1/2, x, -z+1/2'
+  29  '-x+1/4, y+1/4, z+1/4'
+  30  'y, x+1/2, z+1/2'
+  31  'x+1/4, -y+3/4, z+3/4'
+  32  '-y+1/2, -x+1/2, z'
+  33  '-z+1/4, -x+1/4, -y+1/4'
+  34  '-z, y, -x'
+  35  '-z+3/4, x+1/4, y+3/4'
+  36  '-z+1/2, -y+1/2, x'
+  37  'z+1/4, -x+1/4, y+1/4'
+  38  'z+1/2, y, x+1/2'
+  39  'z+3/4, x+1/4, -y+3/4'
+  40  'z, -y+1/2, -x+1/2'
+  41  '-y+1/4, -z+1/4, -x+1/4'
+  42  '-x, -z, y'
+  43  'y+3/4, -z+3/4, x+1/4'
+  44  'x, -z+1/2, -y+1/2'
+  45  'y+1/4, z+1/4, -x+1/4'
+  46  'x+1/2, z+1/2, y'
+  47  '-y+3/4, z+3/4, x+1/4'
+  48  '-x+1/2, z, -y+1/2'
+  49  'x+1/2, y+1/2, z'
+  50  '-y+3/4, x+3/4, z+1/4'
+  51  '-x+1/2, -y, z+1/2'
+  52  'y+1/4, -x+3/4, z+3/4'
+  53  'x+1/2, -y+1/2, -z'
+  54  '-y+3/4, -x+1/4, -z+3/4'
+  55  '-x+1/2, y, -z+1/2'
+  56  'y+1/4, x+1/4, -z+1/4'
+  57  'z+1/2, x+1/2, y'
+  58  'z+3/4, -y+3/4, x+1/4'
+  59  'z, -x+1/2, -y+1/2'
+  60  'z+1/4, y+1/4, -x+1/4'
+  61  '-z+1/2, x+1/2, -y'
+  62  '-z+1/4, -y+3/4, -x+3/4'
+  63  '-z, -x+1/2, y+1/2'
+  64  '-z+3/4, y+1/4, x+3/4'
+  65  'y+1/2, z+1/2, x'
+  66  'x+3/4, z+3/4, -y+1/4'
+  67  '-y, z, -x'
+  68  '-x+3/4, z+1/4, y+3/4'
+  69  '-y+1/2, -z+1/2, x'
+  70  '-x+1/4, -z+1/4, -y+1/4'
+  71  'y, -z, -x'
+  72  'x+1/4, -z+3/4, y+3/4'
+  73  '-x+3/4, -y+3/4, -z+1/4'
+  74  'y+1/2, -x+1/2, -z'
+  75  'x+3/4, y+1/4, -z+3/4'
+  76  '-y, x+1/2, -z+1/2'
+  77  '-x+3/4, y+3/4, z+1/4'
+  78  'y+1/2, x, z+1/2'
+  79  'x+3/4, -y+1/4, z+3/4'
+  80  '-y, -x, z'
+  81  '-z+3/4, -x+3/4, -y+1/4'
+  82  '-z+1/2, y+1/2, -x'
+  83  '-z+1/4, x+3/4, y+3/4'
+  84  '-z, -y, x'
+  85  'z+3/4, -x+3/4, y+1/4'
+  86  'z, y+1/2, x+1/2'
+  87  'z+1/4, x+3/4, -y+3/4'
+  88  'z+1/2, -y, -x+1/2'
+  89  '-y+3/4, -z+3/4, -x+1/4'
+  90  '-x+1/2, -z+1/2, y'
+  91  'y+1/4, -z+1/4, x+1/4'
+  92  'x+1/2, -z, -y+1/2'
+  93  'y+3/4, z+3/4, -x+1/4'
+  94  'x, z, y'
+  95  '-y+1/4, z+1/4, x+1/4'
+  96  '-x, z+1/2, -y+1/2'
+  97  'x+1/2, y, z+1/2'
+  98  '-y+3/4, x+1/4, z+3/4'
+  99  '-x+1/2, -y+1/2, z'
+  100  'y+1/4, -x+1/4, z+1/4'
+  101  'x+1/2, -y, -z+1/2'
+  102  '-y+3/4, -x+3/4, -z+1/4'
+  103  '-x+1/2, y+1/2, -z'
+  104  'y+1/4, x+3/4, -z+3/4'
+  105  'z+1/2, x, y+1/2'
+  106  'z+3/4, -y+1/4, x+3/4'
+  107  'z, -x, -y'
+  108  'z+1/4, y+3/4, -x+3/4'
+  109  '-z+1/2, x, -y+1/2'
+  110  '-z+1/4, -y+1/4, -x+1/4'
+  111  '-z, -x, y'
+  112  '-z+3/4, y+3/4, x+1/4'
+  113  'y+1/2, z, x+1/2'
+  114  'x+3/4, z+1/4, -y+3/4'
+  115  '-y, z+1/2, -x+1/2'
+  116  '-x+3/4, z+3/4, y+1/4'
+  117  '-y+1/2, -z, x+1/2'
+  118  '-x+1/4, -z+3/4, -y+3/4'
+  119  'y, -z+1/2, -x+1/2'
+  120  'x+1/4, -z+1/4, y+1/4'
+  121  '-x+3/4, -y+1/4, -z+3/4'
+  122  'y+1/2, -x, -z+1/2'
+  123  'x+3/4, y+3/4, -z+1/4'
+  124  '-y, x, -z'
+  125  '-x+3/4, y+1/4, z+3/4'
+  126  'y+1/2, x+1/2, z'
+  127  'x+3/4, -y+3/4, z+1/4'
+  128  '-y, -x+1/2, z+1/2'
+  129  '-z+3/4, -x+1/4, -y+3/4'
+  130  '-z+1/2, y, -x+1/2'
+  131  '-z+1/4, x+1/4, y+1/4'
+  132  '-z, -y+1/2, x+1/2'
+  133  'z+3/4, -x+1/4, y+3/4'
+  134  'z, y, x'
+  135  'z+1/4, x+1/4, -y+1/4'
+  136  'z+1/2, -y+1/2, -x'
+  137  '-y+3/4, -z+1/4, -x+3/4'
+  138  '-x+1/2, -z, y+1/2'
+  139  'y+1/4, -z+3/4, x+3/4'
+  140  'x+1/2, -z+1/2, -y'
+  141  'y+3/4, z+1/4, -x+3/4'
+  142  'x, z+1/2, y+1/2'
+  143  '-y+1/4, z+3/4, x+3/4'
+  144  '-x, z, -y'
+  145  'x, y+1/2, z+1/2'
+  146  '-y+1/4, x+3/4, z+3/4'
+  147  '-x, -y, z'
+  148  'y+3/4, -x+3/4, z+1/4'
+  149  'x, -y+1/2, -z+1/2'
+  150  '-y+1/4, -x+1/4, -z+1/4'
+  151  '-x, y, -z'
+  152  'y+3/4, x+1/4, -z+3/4'
+  153  'z, x+1/2, y+1/2'
+  154  'z+1/4, -y+3/4, x+3/4'
+  155  'z+1/2, -x+1/2, -y'
+  156  'z+3/4, y+1/4, -x+3/4'
+  157  '-z, x+1/2, -y+1/2'
+  158  '-z+3/4, -y+3/4, -x+1/4'
+  159  '-z+1/2, -x+1/2, y'
+  160  '-z+1/4, y+1/4, x+1/4'
+  161  'y, z+1/2, x+1/2'
+  162  'x+1/4, z+3/4, -y+3/4'
+  163  '-y+1/2, z, -x+1/2'
+  164  '-x+1/4, z+1/4, y+1/4'
+  165  '-y, -z+1/2, x+1/2'
+  166  '-x+3/4, -z+1/4, -y+3/4'
+  167  'y+1/2, -z, -x+1/2'
+  168  'x+3/4, -z+3/4, y+1/4'
+  169  '-x+1/4, -y+3/4, -z+3/4'
+  170  'y, -x+1/2, -z+1/2'
+  171  'x+1/4, y+1/4, -z+1/4'
+  172  '-y+1/2, x+1/2, -z'
+  173  '-x+1/4, y+3/4, z+3/4'
+  174  'y, x, z'
+  175  'x+1/4, -y+1/4, z+1/4'
+  176  '-y+1/2, -x, z+1/2'
+  177  '-z+1/4, -x+3/4, -y+3/4'
+  178  '-z, y+1/2, -x+1/2'
+  179  '-z+3/4, x+3/4, y+1/4'
+  180  '-z+1/2, -y, x+1/2'
+  181  'z+1/4, -x+3/4, y+3/4'
+  182  'z+1/2, y+1/2, x'
+  183  'z+3/4, x+3/4, -y+1/4'
+  184  'z, -y, -x'
+  185  '-y+1/4, -z+3/4, -x+3/4'
+  186  '-x, -z+1/2, y+1/2'
+  187  'y+3/4, -z+1/4, x+3/4'
+  188  'x, -z, -y'
+  189  'y+1/4, z+3/4, -x+3/4'
+  190  'x+1/2, z, y+1/2'
+  191  '-y+3/4, z+1/4, x+3/4'
+  192  '-x+1/2, z+1/2, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  16  0.12500000  0.12500000  0.12500000  1.0
+  N  N1  16  0.12500000  0.12500000  0.62500000  1.0
+# generated using pymatgen
+data_ID_7
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   2.55594879
+_cell_length_b   2.55594879
+_cell_length_c   10.60950522
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   GaN
+_cell_volume   69.31056303
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.00000000  0.00000000  0.36067759  1.0
+  N  N1  1  0.50000000  0.50000000  0.00000000  1.0
+  N  N2  1  0.50000000  0.50000000  0.50000000  1.0
+# generated using pymatgen
+data_ID_8
+_symmetry_space_group_name_H-M   P4_122
+_cell_length_a   4.42035231
+_cell_length_b   4.42035231
+_cell_length_c   8.46482590
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   91
+_chemical_formula_structural   GaN
+_cell_volume   165.39858872
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x, z+1/4'
+  3  '-x, -y, z+1/2'
+  4  'y, -x, z+3/4'
+  5  'x, -y, -z+1/2'
+  6  '-y, -x, -z+1/4'
+  7  '-x, y, -z'
+  8  'y, x, -z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.36936185  0.36936185  0.87500000  1.0
+  N  N1  4  0.18607987  0.50000000  0.25000000  1.0
+# generated using pymatgen
+data_ID_9
+_symmetry_space_group_name_H-M   I4_1/amd
+_cell_length_a   5.58043019
+_cell_length_b   5.58043019
+_cell_length_c   6.23327425
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   141
+_chemical_formula_structural   GaN
+_cell_volume   194.11164718
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  'x, -y+1/2, -z+1/4'
+  6  '-y, -x, -z'
+  7  '-x+1/2, y, -z+3/4'
+  8  'y+1/2, x+1/2, -z+1/2'
+  9  '-x, -y+1/2, -z+1/4'
+  10  'y, -x, -z'
+  11  'x+1/2, y, -z+3/4'
+  12  '-y+1/2, x+1/2, -z+1/2'
+  13  '-x, y, z'
+  14  'y, x+1/2, z+1/4'
+  15  'x+1/2, -y+1/2, z+1/2'
+  16  '-y+1/2, -x, z+3/4'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-y+1/2, x, z+3/4'
+  19  '-x, -y, z'
+  20  'y, -x+1/2, z+1/4'
+  21  'x+1/2, -y, -z+3/4'
+  22  '-y+1/2, -x+1/2, -z+1/2'
+  23  '-x, y+1/2, -z+1/4'
+  24  'y, x, -z'
+  25  '-x+1/2, -y, -z+3/4'
+  26  'y+1/2, -x+1/2, -z+1/2'
+  27  'x, y+1/2, -z+1/4'
+  28  '-y, x, -z'
+  29  '-x+1/2, y+1/2, z+1/2'
+  30  'y+1/2, x, z+3/4'
+  31  'x, -y, z'
+  32  '-y, -x+1/2, z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  8  0.00000000  0.00000000  0.33040847  1.0
+  N  N1  8  0.00000000  0.25000000  0.12500000  1.0
+# generated using pymatgen
+data_ID_10
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.57577010
+_cell_length_b   5.65221942
+_cell_length_c   5.65221942
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   146.18480143
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00248208  0.59391643  0.30872802  1.0
+  Ga  Ga1  1  0.20569788  0.31976759  0.63598150  1.0
+  Ga  Ga2  1  0.50262367  0.42826780  0.24504424  1.0
+  Ga  Ga3  1  0.73344406  0.54597779  0.67799218  1.0
+  N  N4  1  0.00173186  0.08916009  0.10147270  1.0
+  N  N5  1  0.08216825  0.90125180  0.96850610  1.0
+  N  N6  1  0.36869317  0.94424749  0.01337428  1.0
+  N  N7  1  0.48167574  0.37895428  0.89792465  1.0
+# generated using pymatgen
+data_ID_11
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.04590827  0.90220241  0.92571340  1.0
+  Ga  Ga1  1  0.13624476  0.07107600  0.63787595  1.0
+  Ga  Ga2  1  0.72008920  0.24590954  0.80057585  1.0
+  Ga  Ga3  1  0.81990481  0.43049534  0.53953620  1.0
+  N  N4  1  0.19692749  0.38573675  0.20447970  1.0
+  N  N5  1  0.36420968  0.55507735  0.06783513  1.0
+  N  N6  1  0.44079946  0.14013105  0.24009316  1.0
+  N  N7  1  0.95149904  0.62885556  0.24184267  1.0
+# generated using pymatgen
+data_ID_12
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.19111811  0.20903198  0.62507923  1.0
+  Ga  Ga1  1  0.26971654  0.04141736  0.24141710  1.0
+  Ga  Ga2  1  0.69860059  0.22950506  0.43771119  1.0
+  Ga  Ga3  1  0.95586999  0.39101378  0.11883463  1.0
+  N  N4  1  0.17865772  0.70531393  0.71000263  1.0
+  N  N5  1  0.62694624  0.72429913  0.00139064  1.0
+  N  N6  1  0.65799304  0.74110124  0.88228532  1.0
+  N  N7  1  0.69255497  0.72382492  0.52342211  1.0
+# generated using pymatgen
+data_ID_13
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.57577010
+_cell_length_b   5.65221942
+_cell_length_c   5.65221942
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   146.18480143
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.05524112  0.45400952  0.30813162  1.0
+  Ga  Ga1  1  0.32517379  0.14893188  0.60482235  1.0
+  Ga  Ga2  1  0.37976389  0.11970214  0.09113421  1.0
+  Ga  Ga3  1  0.81481678  0.92141721  0.64970603  1.0
+  N  N4  1  0.38522053  0.68034578  0.00690397  1.0
+  N  N5  1  0.60271014  0.62493513  0.93865968  1.0
+  N  N6  1  0.74326156  0.27702802  0.15389982  1.0
+  N  N7  1  0.88852711  0.77168805  0.35213290  1.0
+# generated using pymatgen
+data_ID_14
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.07632464  0.14874737  0.51852999  1.0
+  Ga  Ga1  1  0.38517796  0.23248533  0.90057843  1.0
+  Ga  Ga2  1  0.85042797  0.37944842  0.20294306  1.0
+  Ga  Ga3  1  0.93786457  0.76848303  0.96335208  1.0
+  N  N4  1  0.44050272  0.69118705  0.84834863  1.0
+  N  N5  1  0.57167920  0.01149283  0.62916780  1.0
+  N  N6  1  0.58239205  0.40597819  0.46208225  1.0
+  N  N7  1  0.95688737  0.85752071  0.24700586  1.0
+# generated using pymatgen
+data_ID_15
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50127163  0.52778359  0.52826117  1.0
+  Ga  Ga1  1  0.74415503  0.50456771  0.93619691  1.0
+  Ga  Ga2  1  0.91174588  0.06446625  0.22238335  1.0
+  Ga  Ga3  1  0.99067207  0.83015565  0.73598549  1.0
+  N  N4  1  0.21953672  0.60808845  0.20839510  1.0
+  N  N5  1  0.22009442  0.24018072  0.84825088  1.0
+  N  N6  1  0.41324328  0.39063504  0.18671249  1.0
+  N  N7  1  0.99928097  0.31905621  0.50934221  1.0
+# generated using pymatgen
+data_ID_16
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.07631580  0.84973761  0.78725912  1.0
+  Ga  Ga1  1  0.24873219  0.62227019  0.23854123  1.0
+  Ga  Ga2  1  0.57748708  0.76876686  0.55145286  1.0
+  Ga  Ga3  1  0.66823826  0.40256033  0.91291712  1.0
+  N  N4  1  0.16714475  0.37876543  0.78661924  1.0
+  N  N5  1  0.56476788  0.09302672  0.15165073  1.0
+  N  N6  1  0.84407565  0.13870076  0.27623711  1.0
+  N  N7  1  0.85323838  0.23110573  0.47085019  1.0
+# generated using pymatgen
+data_ID_17
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.63290161
+_cell_length_b   4.90279644
+_cell_length_c   5.26247646
+_cell_angle_alpha   80.85034390
+_cell_angle_beta   65.14538541
+_cell_angle_gamma   80.68712503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.19028592  0.32235052  0.66525443  1.0
+  Ga  Ga1  1  0.30001043  0.84355101  0.70376070  1.0
+  Ga  Ga2  1  0.56256741  0.97269644  0.98766907  1.0
+  Ga  Ga3  1  0.65745760  0.36627319  0.04365612  1.0
+  N  N4  1  0.45266271  0.61890715  0.34485978  1.0
+  N  N5  1  0.89552462  0.78975164  0.52196354  1.0
+  N  N6  1  0.96271260  0.02439986  0.30767410  1.0
+  N  N7  1  0.97877871  0.72253142  0.24963464  1.0
+# generated using pymatgen
+data_ID_18
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   3.64825161
+_cell_length_b   4.39888810
+_cell_length_c   4.46032198
+_cell_angle_alpha   62.27595352
+_cell_angle_beta   77.97257723
+_cell_angle_gamma   73.08188874
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   GaN
+_cell_volume   60.39495865
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.31970128  0.41646085  0.30591154  1.0
+  N  N1  2  0.36960918  0.91184863  0.29066401  1.0
+# generated using pymatgen
+data_ID_19
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   3.29185104
+_cell_length_b   3.29185104
+_cell_length_c   3.44116162
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   GaN
+_cell_volume   37.28940207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1.0
+  N  N1  1  0.50000000  0.50000000  0.00000000  1.0
+# generated using pymatgen
+data_ID_20
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.02754482  0.93822632  0.87197790  1.0
+  Ga  Ga1  1  0.26422015  0.70689108  0.11449458  1.0
+  Ga  Ga2  1  0.58432037  0.36942727  0.03692277  1.0
+  Ga  Ga3  1  0.68309084  0.28564996  0.52348450  1.0
+  N  N4  1  0.34672128  0.61088447  0.63397367  1.0
+  N  N5  1  0.34946421  0.61850594  0.75395450  1.0
+  N  N6  1  0.78152706  0.96536322  0.30745898  1.0
+  N  N7  1  0.95077624  0.81100610  0.33025861  1.0
+# generated using pymatgen
+data_ID_21
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.24726548  0.28266643  0.88446418  1.0
+  Ga  Ga1  1  0.28775327  0.18372676  0.26858224  1.0
+  Ga  Ga2  1  0.33419572  0.30158110  0.61338162  1.0
+  Ga  Ga3  1  0.96233746  0.61563787  0.76152456  1.0
+  N  N4  1  0.62803286  0.86653849  0.40355217  1.0
+  N  N5  1  0.62908227  0.84829997  0.14405640  1.0
+  N  N6  1  0.65074913  0.86751533  0.02584278  1.0
+  N  N7  1  0.67325101  0.96915555  0.51956740  1.0
+# generated using pymatgen
+data_ID_22
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.02079165  0.28075642  0.36059416  1.0
+  Ga  Ga1  1  0.36772075  0.95266060  0.18910484  1.0
+  Ga  Ga2  1  0.67587755  0.60514981  0.51188142  1.0
+  Ga  Ga3  1  0.71353836  0.64211299  0.08380480  1.0
+  N  N4  1  0.32979747  0.93078531  0.73879149  1.0
+  N  N5  1  0.35176117  0.95015338  0.41479359  1.0
+  N  N6  1  0.38413301  0.13423148  0.86145822  1.0
+  N  N7  1  0.57064213  0.79524776  0.78575549  1.0
+# generated using pymatgen
+data_ID_23
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   6.72934013
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   GaN
+_cell_volume   241.57983461
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.16536682  0.00000000  0.42022992  1.0
+  Ga  Ga1  4  0.16726211  0.00000000  0.92097453  1.0
+  N  N2  4  0.00067148  0.50000000  0.69008802  1.0
+  N  N3  4  0.00144735  0.50000000  0.81066142  1.0
+# generated using pymatgen
+data_ID_24
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.22834814  0.83027881  0.66623863  1.0
+  Ga  Ga1  1  0.31832246  0.91385663  0.18095987  1.0
+  Ga  Ga2  1  0.50976387  0.46129010  0.74316631  1.0
+  Ga  Ga3  1  0.94667732  0.21526868  0.52854598  1.0
+  N  N4  1  0.62904075  0.56678346  0.41354585  1.0
+  N  N5  1  0.63423253  0.55979508  0.29379364  1.0
+  N  N6  1  0.77388827  0.66234290  0.97663330  1.0
+  N  N7  1  0.88617323  0.98045710  0.01331873  1.0
+# generated using pymatgen
+data_ID_25
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.05394069  0.21773589  0.48024475  1.0
+  Ga  Ga1  1  0.15292193  0.72069372  0.96891712  1.0
+  Ga  Ga2  1  0.54307704  0.90680644  0.64216912  1.0
+  Ga  Ga3  1  0.71551836  0.36759792  0.16558299  1.0
+  N  N4  1  0.25317433  0.24708153  0.99253325  1.0
+  N  N5  1  0.54803893  0.45444234  0.45863355  1.0
+  N  N6  1  0.65852241  0.68726150  0.83679074  1.0
+  N  N7  1  0.87606277  0.89372360  0.22713657  1.0
+# generated using pymatgen
+data_ID_26
+_symmetry_space_group_name_H-M   P3m1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   156
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+  4  '-y, -x, z'
+  5  '-x+y, y, z'
+  6  'x, x-y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.00000000  0.35782992  1.0
+  Ga  Ga1  1  0.33333333  0.66666667  0.92283527  1.0
+  Ga  Ga2  1  0.66666667  0.33333333  0.09599505  1.0
+  Ga  Ga3  1  0.66666667  0.33333333  0.53609284  1.0
+  N  N4  1  0.00000000  0.00000000  0.14919160  1.0
+  N  N5  1  0.00000000  0.00000000  0.69182730  1.0
+  N  N6  1  0.00000000  0.00000000  0.81199828  1.0
+  N  N7  1  0.33333333  0.66666667  0.43422974  1.0
+# generated using pymatgen
+data_ID_27
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.93498563
+_cell_length_b   4.62826451
+_cell_length_c   6.15951728
+_cell_angle_alpha   90.86474529
+_cell_angle_beta   104.52542201
+_cell_angle_gamma   100.70596329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.36128702  0.28979483  0.05324851  1.0
+  Ga  Ga1  1  0.41474928  0.02100955  0.60617364  1.0
+  Ga  Ga2  1  0.69569063  0.90479704  0.35622527  1.0
+  Ga  Ga3  1  0.80516663  0.80138233  0.95303865  1.0
+  N  N4  1  0.02794245  0.52153418  0.56519754  1.0
+  N  N5  1  0.09796672  0.39040929  0.39129508  1.0
+  N  N6  1  0.35813087  0.80174574  0.06587941  1.0
+  N  N7  1  0.91372798  0.41939732  0.73227675  1.0
+# generated using pymatgen
+data_ID_28
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   2.57223754
+_cell_length_b   6.80250369
+_cell_length_c   7.29827072
+_cell_angle_alpha   72.55991081
+_cell_angle_beta   84.82837625
+_cell_angle_gamma   83.27626119
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.01649301  0.35321340  0.35274663  1.0
+  Ga  Ga1  2  0.48118781  0.14738770  0.64677022  1.0
+  N  N2  2  0.20743379  0.18140746  0.97909556  1.0
+  N  N3  2  0.29475427  0.31810288  0.02143641  1.0
+# generated using pymatgen
+data_ID_29
+_symmetry_space_group_name_H-M   Imma
+_cell_length_a   4.37841059
+_cell_length_b   9.13556742
+_cell_length_c   3.64935532
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   74
+_chemical_formula_structural   GaN
+_cell_volume   145.97153116
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y+1/2, z'
+  4  'x, y+1/2, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-x+1/2, -y+1/2, -z+1/2'
+  11  '-x+1/2, -y, z+1/2'
+  12  'x+1/2, y, -z+1/2'
+  13  'x+1/2, -y+1/2, -z+1/2'
+  14  '-x+1/2, y+1/2, z+1/2'
+  15  '-x+1/2, y, -z+1/2'
+  16  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.00000000  0.00000000  0.00000000  1.0
+  Ga  Ga1  4  0.25000000  0.25000000  0.75000000  1.0
+  N  N2  8  0.00000000  0.17938491  0.35651485  1.0
+# generated using pymatgen
+data_ID_30
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.24335021  0.36379205  0.36909860  1.0
+  Ga  Ga1  1  0.32795158  0.81171932  0.70257508  1.0
+  Ga  Ga2  1  0.72710994  0.38907077  0.17758432  1.0
+  Ga  Ga3  1  0.73519490  0.29787835  0.65192606  1.0
+  N  N4  1  0.12988592  0.74668405  0.01731114  1.0
+  N  N5  1  0.21484985  0.09109720  0.53812684  1.0
+  N  N6  1  0.60690490  0.17413172  0.88591258  1.0
+  N  N7  1  0.82817974  0.82167964  0.05947140  1.0
+# generated using pymatgen
+data_ID_31
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.30180688  0.77119548  0.91121584  1.0
+  Ga  Ga1  1  0.58898245  0.39058847  0.27245958  1.0
+  Ga  Ga2  1  0.78837528  0.13529554  0.86547217  1.0
+  Ga  Ga3  1  0.85038021  0.89323280  0.16253868  1.0
+  N  N4  1  0.10840976  0.48617715  0.55434099  1.0
+  N  N5  1  0.14403422  0.19350681  0.56986689  1.0
+  N  N6  1  0.42666231  0.00650807  0.55640040  1.0
+  N  N7  1  0.57640134  0.50506078  0.03591908  1.0
+# generated using pymatgen
+data_ID_32
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.17673087  0.96150051  0.18058351  1.0
+  Ga  Ga1  1  0.49478358  0.54721887  0.33018343  1.0
+  Ga  Ga2  1  0.63575226  0.20262935  0.98750483  1.0
+  Ga  Ga3  1  0.96772807  0.27106291  0.51719363  1.0
+  N  N4  1  0.11541282  0.03395630  0.88946922  1.0
+  N  N5  1  0.45151344  0.49771847  0.75083878  1.0
+  N  N6  1  0.55977144  0.63268955  0.90059551  1.0
+  N  N7  1  0.99052180  0.77767270  0.39962709  1.0
+# generated using pymatgen
+data_ID_33
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88518633
+_cell_length_b   3.88518633
+_cell_length_c   9.24009311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.22790729  0.69429452  0.39283182  1.0
+  Ga  Ga1  1  0.37169105  0.97074188  0.72918975  1.0
+  Ga  Ga2  1  0.51300308  0.26315430  0.23226364  1.0
+  Ga  Ga3  1  0.89291629  0.02367873  0.56531419  1.0
+  N  N4  1  0.03763694  0.30385429  0.96007037  1.0
+  N  N5  1  0.32532588  0.44776121  0.90083451  1.0
+  N  N6  1  0.37102502  0.97045385  0.05225331  1.0
+  N  N7  1  0.93874776  0.11524673  0.34647018  1.0
+# generated using pymatgen
+data_ID_34
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.29132229  0.66297236  0.23744208  1.0
+  Ga  Ga1  1  0.32120033  0.27348237  0.69430034  1.0
+  Ga  Ga2  1  0.72324430  0.20265437  0.11833205  1.0
+  Ga  Ga3  1  0.82349881  0.63321084  0.96122389  1.0
+  N  N4  1  0.24643114  0.00775697  0.92424422  1.0
+  N  N5  1  0.53100848  0.08087842  0.36087096  1.0
+  N  N6  1  0.80105820  0.86739220  0.60683499  1.0
+  N  N7  1  0.92269568  0.62827940  0.53079366  1.0
+# generated using pymatgen
+data_ID_35
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.04361144  0.32806639  0.53557302  1.0
+  Ga  Ga1  1  0.04964209  0.86905155  0.27579295  1.0
+  Ga  Ga2  1  0.54352924  0.88454893  0.58140500  1.0
+  Ga  Ga3  1  0.75221892  0.33299478  0.16722089  1.0
+  N  N4  1  0.04932936  0.69473041  0.88837606  1.0
+  N  N5  1  0.27905742  0.23224061  0.99683694  1.0
+  N  N6  1  0.53479431  0.69832758  0.88216860  1.0
+  N  N7  1  0.54907369  0.45538269  0.44463464  1.0
+# generated using pymatgen
+data_ID_36
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.53387986
+_cell_length_b   4.43670618
+_cell_length_c   7.12842700
+_cell_angle_alpha   107.69434737
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   106.47764384
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.17907992  0.15048869  0.98120447  1.0
+  Ga  Ga1  1  0.18679842  0.61024306  0.89636953  1.0
+  Ga  Ga2  1  0.68192571  0.51055128  0.16780235  1.0
+  Ga  Ga3  1  0.69181694  0.04084575  0.73170238  1.0
+  N  N4  1  0.19052758  0.15139540  0.40774704  1.0
+  N  N5  1  0.32749224  0.43306728  0.44940549  1.0
+  N  N6  1  0.68748720  0.57187585  0.74934457  1.0
+  N  N7  1  0.85612845  0.02687563  0.38843227  1.0
+# generated using pymatgen
+data_ID_37
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   3.98890169
+_cell_length_b   4.38303305
+_cell_length_c   7.23699831
+_cell_angle_alpha   77.89528994
+_cell_angle_beta   81.23661479
+_cell_angle_gamma   79.52084351
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   GaN
+_cell_volume   120.78991731
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.11377544  0.72616686  0.62457592  1.0
+  Ga  Ga1  2  0.38606881  0.77219111  0.87442654  1.0
+  N  N2  2  0.21080547  0.86462431  0.19351721  1.0
+  N  N3  2  0.28733221  0.63777817  0.30511906  1.0
+# generated using pymatgen
+data_ID_38
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   2.19364277
+_cell_length_b   2.91559715
+_cell_length_c   19.03216264
+_cell_angle_alpha   92.97986430
+_cell_angle_beta   93.02905408
+_cell_angle_gamma   95.53061874
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   GaN
+_cell_volume   120.78991730
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.03575484  0.55248439  0.06371414  1.0
+  Ga  Ga1  2  0.46394733  0.44673021  0.43628223  1.0
+  N  N2  2  0.24233876  0.06106065  0.21644100  1.0
+  N  N3  2  0.25833928  0.94083989  0.28503304  1.0
+# generated using pymatgen
+data_ID_39
+_symmetry_space_group_name_H-M   P-42m
+_cell_length_a   3.73980877
+_cell_length_b   3.73980877
+_cell_length_c   12.71218026
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   111
+_chemical_formula_structural   GaN
+_cell_volume   177.79470943
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x, -y, -z'
+  6  'y, x, z'
+  7  '-x, y, -z'
+  8  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.23641838  0.23641838  0.10514387  1.0
+  N  N1  2  0.50000000  0.50000000  0.39993340  1.0
+  N  N2  1  0.50000000  0.50000000  0.00000000  1.0
+  N  N3  1  0.50000000  0.50000000  0.50000000  1.0

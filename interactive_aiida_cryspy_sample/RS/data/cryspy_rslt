@@ -1,0 +1,4 @@
+   Spg_num Spg_sym  Spg_num_opt Spg_sym_opt  E_eV_atom  Magmom   Opt
+0      189   P-62m          189       P-62m  10.798536     NaN  None
+1      122   I-42d          141    I4_1/amd -18.577311     NaN  None
+2       59    Pmmn           47        Pmmm  83.419537     NaN  None
