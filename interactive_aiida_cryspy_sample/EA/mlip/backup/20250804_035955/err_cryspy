@@ -1,0 +1,2 @@
+[2025-08-04 02:45:52,492][gen_pyxtal][WARNING] Compoisition [4 4] not compatible with symmetry 145:     spg = 145 retry.
+[2025-08-04 03:11:47,933][crossover][WARNING] remove_within_mindist: some atoms within mindist. retry.

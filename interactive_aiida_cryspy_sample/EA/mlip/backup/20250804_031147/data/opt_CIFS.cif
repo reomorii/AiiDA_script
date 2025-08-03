@@ -1,0 +1,334 @@
+# generated using pymatgen
+data_ID_0
+_symmetry_space_group_name_H-M   P6_3mc
+_cell_length_a   3.14952366
+_cell_length_b   3.14952366
+_cell_length_c   10.87381471
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   186
+_chemical_formula_structural   GaN
+_cell_volume   93.41192274
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+  7  'y, x, z+1/2'
+  8  'x, x-y, z'
+  9  'x-y, -y, z+1/2'
+  10  '-y, -x, z'
+  11  '-x, -x+y, z+1/2'
+  12  '-x+y, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.00000000  0.00000000  0.40604561  1.0
+  Ga  Ga1  2  0.33333333  0.66666667  0.65519532  1.0
+  N  N2  2  0.33333333  0.66666667  0.21653027  1.0
+  N  N3  2  0.33333333  0.66666667  0.47081005  1.0
+# generated using pymatgen
+data_ID_1
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.04940662
+_cell_length_b   4.27363706
+_cell_length_c   6.48734842
+_cell_angle_alpha   88.62988106
+_cell_angle_beta   88.61307606
+_cell_angle_gamma   82.69266860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   111.29905299
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.07044770  0.90807021  0.37428981  1.0
+  Ga  Ga1  1  0.07490580  0.91355094  0.87547849  1.0
+  Ga  Ga2  1  0.57430836  0.41202297  0.12575796  1.0
+  Ga  Ga3  1  0.58093676  0.41911251  0.62512648  1.0
+  N  N4  1  0.41648969  0.57903425  0.87562661  1.0
+  N  N5  1  0.44233194  0.60297939  0.37383520  1.0
+  N  N6  1  0.90812999  0.07142221  0.62482420  1.0
+  N  N7  1  0.93246941  0.09381505  0.12510125  1.0
+# generated using pymatgen
+data_ID_2
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.19254272
+_cell_length_b   5.32604947
+_cell_length_c   5.44341824
+_cell_angle_alpha   88.89767800
+_cell_angle_beta   87.78955239
+_cell_angle_gamma   78.86650042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   90.74184244
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00292234  0.99922769  0.99323161  1.0
+  Ga  Ga1  1  0.22944740  0.50083240  0.98488988  1.0
+  Ga  Ga2  1  0.43112610  0.93815331  0.53040688  1.0
+  Ga  Ga3  1  0.63991595  0.41774896  0.49892052  1.0
+  N  N4  1  0.09704934  0.48951684  0.65927778  1.0
+  N  N5  1  0.45432841  0.17485324  0.76966443  1.0
+  N  N6  1  0.45739293  0.13915267  0.87324308  1.0
+  N  N7  1  0.93714893  0.07463320  0.34372391  1.0
+# generated using pymatgen
+data_ID_3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.37191428
+_cell_length_b   4.73541320
+_cell_length_c   8.46976271
+_cell_angle_alpha   92.47203986
+_cell_angle_beta   101.67619698
+_cell_angle_gamma   102.46449506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   166.97963259
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.16007694  0.64164258  0.28931038  1.0
+  Ga  Ga1  1  0.55596144  0.51680113  0.19332876  1.0
+  Ga  Ga2  1  0.81485372  0.00129030  0.26038912  1.0
+  Ga  Ga3  1  0.92514553  0.52051156  0.74384946  1.0
+  N  N4  1  0.14472873  0.10442079  0.47397020  1.0
+  N  N5  1  0.38662720  0.64806825  0.68758071  1.0
+  N  N6  1  0.64219379  0.78808780  0.67942801  1.0
+  N  N7  1  0.91549339  0.32904353  0.56166831  1.0
+# generated using pymatgen
+data_ID_4
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.19823502
+_cell_length_b   4.19825658
+_cell_length_c   5.35030930
+_cell_angle_alpha   113.09868756
+_cell_angle_beta   113.09506518
+_cell_angle_gamma   90.00078658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   78.45776722
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00361580  0.99729765  0.00003624  1.0
+  Ga  Ga1  1  0.25041130  0.74795325  0.49998105  1.0
+  Ga  Ga2  1  0.50319551  0.49752309  0.99998449  1.0
+  Ga  Ga3  1  0.75030863  0.24775818  0.50003669  1.0
+  N  N4  1  0.00255246  0.50596647  0.00753072  1.0
+  N  N5  1  0.25087025  0.25621831  0.50755303  1.0
+  N  N6  1  0.49557149  0.99865442  0.99244648  1.0
+  N  N7  1  0.74347452  0.74862852  0.49243110  1.0
+# generated using pymatgen
+data_ID_5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.57352821
+_cell_length_b   5.35172029
+_cell_length_c   5.82319598
+_cell_angle_alpha   77.77692715
+_cell_angle_beta   77.70383007
+_cell_angle_gamma   78.25322879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   134.21544936
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.10017148  0.32072796  0.61912046  1.0
+  Ga  Ga1  1  0.20128171  0.13706489  0.26088483  1.0
+  Ga  Ga2  1  0.78473392  0.87115277  0.69801552  1.0
+  Ga  Ga3  1  0.87492429  0.75100916  0.17482138  1.0
+  N  N4  1  0.17253537  0.67903232  0.55704002  1.0
+  N  N5  1  0.22912431  0.76352784  0.31241560  1.0
+  N  N6  1  0.78332795  0.32279591  0.91969907  1.0
+  N  N7  1  0.85390317  0.15468731  0.08794622  1.0
+# generated using pymatgen
+data_ID_6
+_symmetry_space_group_name_H-M   Pc
+_cell_length_a   3.21257799
+_cell_length_b   5.58294232
+_cell_length_c   5.21242503
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.12493829
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   7
+_chemical_formula_structural   GaN
+_cell_volume   93.48794411
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.10918759  0.16971004  0.54125011  1.0
+  Ga  Ga1  2  0.60865628  0.33162347  0.04030618  1.0
+  N  N2  2  0.10986870  0.16358733  0.91734172  1.0
+  N  N3  2  0.60713416  0.33581384  0.41685305  1.0
+# generated using pymatgen
+data_ID_7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.15656556
+_cell_length_b   4.89155327
+_cell_length_c   11.70071576
+_cell_angle_alpha   92.72796822
+_cell_angle_beta   94.72268888
+_cell_angle_gamma   108.66126685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   170.06190885
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.07349958  0.01163027  0.32930744  1.0
+  Ga  Ga1  1  0.62452253  0.77243641  0.07808842  1.0
+  Ga  Ga2  1  0.63146929  0.36926490  0.19260721  1.0
+  Ga  Ga3  1  0.69639740  0.63372602  0.45377376  1.0
+  N  N4  1  0.02198191  0.10991736  0.15785427  1.0
+  N  N5  1  0.53847770  0.17395051  0.72802208  1.0
+  N  N6  1  0.69558665  0.26957678  0.36169715  1.0
+  N  N7  1  0.71786225  0.39065699  0.69879553  1.0
+# generated using pymatgen
+data_ID_8
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.08610091
+_cell_length_b   4.49185761
+_cell_length_c   6.92360289
+_cell_angle_alpha   77.26634682
+_cell_angle_beta   81.60837630
+_cell_angle_gamma   80.55863115
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   121.47413911
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.35241192  0.89239060  0.17592256  1.0
+  Ga  Ga1  1  0.54606902  0.06259987  0.60421419  1.0
+  Ga  Ga2  1  0.92791485  0.46780113  0.38889329  1.0
+  Ga  Ga3  1  0.99709475  0.74058835  0.79748552  1.0
+  N  N4  1  0.24209257  0.52911269  0.57335505  1.0
+  N  N5  1  0.47995353  0.73966429  0.46017906  1.0
+  N  N6  1  0.65757459  0.19455341  0.05744197  1.0
+  N  N7  1  0.79688669  0.37328592  0.94251101  1.0
+# generated using pymatgen
+data_ID_9
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.01637131
+_cell_length_b   3.35386006
+_cell_length_c   17.77688104
+_cell_angle_alpha   92.31276614
+_cell_angle_beta   93.53008134
+_cell_angle_gamma   96.22046886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_cell_volume   178.24101138
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.21039245  0.01923456  0.93057707  1.0
+  Ga  Ga1  1  0.32307385  0.39914524  0.51421150  1.0
+  Ga  Ga2  1  0.42798018  0.54843490  0.66131513  1.0
+  Ga  Ga3  1  0.70849745  0.57346700  0.79109146  1.0
+  N  N4  1  0.11518820  0.74685195  0.29356998  1.0
+  N  N5  1  0.15559514  0.84000792  0.35473300  1.0
+  N  N6  1  0.18764554  0.51809296  0.85789728  1.0
+  N  N7  1  0.87162548  0.35476670  0.59660679  1.0
