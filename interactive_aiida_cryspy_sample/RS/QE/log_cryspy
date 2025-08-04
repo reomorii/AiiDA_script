@@ -1,0 +1,55 @@
+[2025-08-04 18:10:08,282][cryspy_init][INFO] 
+
+
+Start CrySPY 1.4.0b10
+
+
+[2025-08-04 18:10:08,282][cryspy_init][INFO] # ---------- Library version info
+[2025-08-04 18:10:08,283][cryspy_init][INFO] pandas version: 2.2.2
+[2025-08-04 18:10:08,284][cryspy_init][INFO] pymatgen version: 2024.6.10
+[2025-08-04 18:10:08,284][cryspy_init][INFO] pyxtal version: 0.6.7
+[2025-08-04 18:10:08,284][cryspy_init][INFO] # ---------- Read input file, cryspy.in
+[2025-08-04 18:10:08,286][write_input][INFO] [basic]
+[2025-08-04 18:10:08,286][write_input][INFO] algo = RS
+[2025-08-04 18:10:08,286][write_input][INFO] calc_code = QE
+[2025-08-04 18:10:08,286][write_input][INFO] tot_struc = 3
+[2025-08-04 18:10:08,287][write_input][INFO] nstage = 2
+[2025-08-04 18:10:08,287][write_input][INFO] njob = 2
+[2025-08-04 18:10:08,287][write_input][INFO] jobcmd = qsub
+[2025-08-04 18:10:08,287][write_input][INFO] jobfile = job_cryspy
+[2025-08-04 18:10:08,288][write_input][INFO] 
+[2025-08-04 18:10:08,288][write_input][INFO] [structure]
+[2025-08-04 18:10:08,288][write_input][INFO] struc_mode = crystal
+[2025-08-04 18:10:08,288][write_input][INFO] atype = ('Si',)
+[2025-08-04 18:10:08,289][write_input][INFO] nat = (8,)
+[2025-08-04 18:10:08,289][write_input][INFO] mindist_factor = 1.0
+[2025-08-04 18:10:08,289][write_input][INFO] vol_factor = 1.1
+[2025-08-04 18:10:08,289][write_input][INFO] symprec = 0.01
+[2025-08-04 18:10:08,290][write_input][INFO] spgnum = all
+[2025-08-04 18:10:08,290][write_input][INFO] use_find_wy = False
+[2025-08-04 18:10:08,290][write_input][INFO] 
+[2025-08-04 18:10:08,290][write_input][INFO] [option]
+[2025-08-04 18:10:08,291][write_input][INFO] stop_chkpt = 0
+[2025-08-04 18:10:08,291][write_input][INFO] load_struc_flag = False
+[2025-08-04 18:10:08,291][write_input][INFO] stop_next_struc = False
+[2025-08-04 18:10:08,291][write_input][INFO] append_struc_ea = False
+[2025-08-04 18:10:08,292][write_input][INFO] energy_step_flag = False
+[2025-08-04 18:10:08,292][write_input][INFO] struc_step_flag = False
+[2025-08-04 18:10:08,292][write_input][INFO] force_step_flag = False
+[2025-08-04 18:10:08,292][write_input][INFO] stress_step_flag = False
+[2025-08-04 18:10:08,293][write_input][INFO] 
+[2025-08-04 18:10:08,293][write_input][INFO] [QE]
+[2025-08-04 18:10:08,293][write_input][INFO] kpt_flag = True
+[2025-08-04 18:10:08,293][write_input][INFO] kppvol = (40, 80)
+[2025-08-04 18:10:08,294][write_input][INFO] force_gamma = False
+[2025-08-04 18:10:08,294][write_input][INFO] qe_infile = pwscf.in
+[2025-08-04 18:10:08,295][write_input][INFO] qe_outfile = pwscf.out
+[2025-08-04 18:10:08,295][write_input][INFO] pv_term = False
+[2025-08-04 18:10:08,296][rs_gen][INFO] # ---------- Initial structure generation
+[2025-08-04 18:10:08,296][rs_gen][INFO] # ------ mindist
+[2025-08-04 18:10:08,298][struc_util][INFO] Si - Si: 1.11
+[2025-08-04 18:10:08,298][rs_gen][INFO] # ------ generate structures
+[2025-08-04 18:10:08,338][gen_pyxtal][INFO] Structure ID      0: (8,) Space group:  97 --> 139 I4/mmm
+[2025-08-04 18:10:08,345][gen_pyxtal][INFO] Structure ID      1: (8,) Space group: 143 --> 143 P3
+[2025-08-04 18:10:08,365][gen_pyxtal][INFO] Structure ID      2: (8,) Space group:   1 -->   1 P1
+[2025-08-04 18:10:08,928][cryspy_init][INFO] Elapsed time for structure generation: 0:00:00.631929

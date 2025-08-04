@@ -1,0 +1,120 @@
+# generated using pymatgen
+data_ID_0
+_symmetry_space_group_name_H-M   I4/mmm
+_cell_length_a   3.25908631
+_cell_length_b   3.25908631
+_cell_length_c   24.77215160
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   139
+_chemical_formula_structural   Si
+_cell_volume   263.12096555
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-x+1/2, -y+1/2, -z+1/2'
+  19  '-y+1/2, x+1/2, z+1/2'
+  20  'y+1/2, -x+1/2, -z+1/2'
+  21  '-x+1/2, -y+1/2, z+1/2'
+  22  'x+1/2, y+1/2, -z+1/2'
+  23  'y+1/2, -x+1/2, z+1/2'
+  24  '-y+1/2, x+1/2, -z+1/2'
+  25  'x+1/2, -y+1/2, -z+1/2'
+  26  '-x+1/2, y+1/2, z+1/2'
+  27  '-y+1/2, -x+1/2, -z+1/2'
+  28  'y+1/2, x+1/2, z+1/2'
+  29  '-x+1/2, y+1/2, -z+1/2'
+  30  'x+1/2, -y+1/2, z+1/2'
+  31  'y+1/2, x+1/2, -z+1/2'
+  32  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  8  0.00000000  0.50000000  0.14376126  1.0
+  Si  Si1  4  0.00000000  0.00000000  0.45234756  1.0
+  Si  Si2  4  0.00000000  0.50000000  0.25000000  1.0
+# generated using pymatgen
+data_ID_1
+_symmetry_space_group_name_H-M   P3
+_cell_length_a   4.51266502
+_cell_length_b   4.51266502
+_cell_length_c   13.80840178
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   143
+_chemical_formula_structural   Si
+_cell_volume   243.52314310
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  3  0.00035176  0.33469424  0.25559558  1.0
+  Si  Si1  3  0.00160036  0.67087904  0.57058729  1.0
+  Si  Si2  1  0.33333333  0.66666667  0.10957975  1.0
+  Si  Si3  1  0.66666667  0.33333333  0.40778775  1.0
+# generated using pymatgen
+data_ID_2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   2.69623388
+_cell_length_b   5.20110676
+_cell_length_c   5.20967924
+_cell_angle_alpha   70.16868806
+_cell_angle_beta   76.15114148
+_cell_angle_gamma   86.35861602
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Si
+_cell_volume   66.71447015
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  2  0.07104515  0.25549135  0.41289041  1.0
+  Si  Si1  2  0.17814988  0.98904522  0.16821847  1.0
+  Si  Si2  2  0.27489727  0.67222842  0.94192881  1.0
+  Si  Si3  2  0.38311279  0.36366856  0.71074556  1.0
